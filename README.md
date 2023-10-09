@@ -7,3 +7,5 @@ This repository consists mainly following tasks:-
 3. Car Price Prediction with Machine Learning
 4. Email Spam Detection with Machine Learning
 5. Sales Prediction using Python
+
+![image](https://github.com/Keyur08/OIBSIP/assets/104707756/fa2e9578-636f-4f47-952a-8fce48f0ad49)
